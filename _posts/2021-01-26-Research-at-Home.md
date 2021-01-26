@@ -4,8 +4,6 @@ title: "Forging Ahead with Research while Sheltering in Place"
 author: Annabel Gomez
 categories: [ Featured ]
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/5F5C8D29-8ADD-48C0-A0C6-FEEDF09F40ED.jpeg
-featured: true
-hidden: true
 ---
 The transition period to remote learning was a very uncertain time, especially for research and the Caltech Summer Undergraduate Research Fellowships (SURF) program. Many hands-on projects had to pivot at the last minute to facilitate off-campus contributions. However, many Techers were able to take advantage of the research opportunities offered at Caltech and JPL to make the best out of remote learning and research. To paint a picture, I’ve interviewed a few talented Techers for some insight on what researching from home looks like for them. 
 
