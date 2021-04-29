@@ -3,7 +3,7 @@ layout: post
 title: "Due Tomorrow, Do Tomorrow" 
 author: andy
 categories: [ Academics ]
-image: s3://ug-admissions-caltech-blog-publish/images/2021/04/lloyd.jpg
+image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2021/04/lloyd.jpg
 ---
 
 It’s Thursday night and you’re trying to finish one of the two sets you have due tomorrow. You’ve been grinding at the set for a few hours and things have actually been going pretty well, but then you get stuck. 
