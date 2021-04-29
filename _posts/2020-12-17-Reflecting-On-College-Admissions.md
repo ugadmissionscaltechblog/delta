@@ -2,8 +2,8 @@
 layout: post
 title: "Reflecting on College Admissions"
 author: andrew
-featured: true
-hidden: true
+featured: false
+hidden: false
 image: https://blueberry-elephant.s3.us-east-2.amazonaws.com/amchan/12_17/Ventura.JPG
 ---
 
