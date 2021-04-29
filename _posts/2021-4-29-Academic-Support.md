@@ -6,7 +6,7 @@ categories: [ Academics ]
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2021/04/lloyd.jpg
 featured: true
 comments: true
-hiddem: true
+hidden: true
 ---
 
 It’s Thursday night and you’re trying to finish one of the two sets you have due tomorrow. You’ve been grinding at the set for a few hours and things have actually been going pretty well, but then you get stuck. 
