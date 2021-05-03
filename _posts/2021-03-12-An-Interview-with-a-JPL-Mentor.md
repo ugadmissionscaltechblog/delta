@@ -3,7 +3,7 @@ layout: post
 title: "An Interview with a JPL Mentor!" 
 author: annabel
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/E2A82F2A-948E-4862-A304-E5E92409F442.jpeg 
-featured: true
+featured: false
 hidden: true
 comments: true
 ---
