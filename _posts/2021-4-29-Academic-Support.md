@@ -4,7 +4,7 @@ title: "Due Tomorrow, Do Tomorrow"
 author: andy
 categories: [ Academics ]
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2021/04/lloyd.jpg
-featured: true
+featured: false
 comments: true
 hidden: true
 ---
