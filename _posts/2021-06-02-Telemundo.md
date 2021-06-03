@@ -4,7 +4,7 @@ title: "Paving the Way & Enjoying the Journey on the Road Less Traveled"
 author: Annabel Gomez
 youtubeId: aNaSqu-_pVk
 categories: [ Featured ]
-image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2021/D72B3CE5-4A42-4FA8-84B0-1AB71C3BCD47.jpeg
+image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2021/59190C66-2F62-4571-A411-4BAF012AC81C.jpeg
 featured: true
 hidden: true
 ---
