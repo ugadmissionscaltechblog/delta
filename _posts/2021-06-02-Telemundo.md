@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paving the Way & Enjoying the View of the Road Less Traveled"
+title: "Paving the Way & Enjoying the Journey on the Road Less Traveled"
 author: Annabel Gomez
 youtubeId:aNaSqu-_pVk
 categories: [ Featured ]
