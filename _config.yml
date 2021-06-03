@@ -16,12 +16,11 @@ authors:
     display_name: Annabel Reyna 
     avatar: "assets/profilepics/agomez.png" 
     description: "Hello, my name is Annabel Reyna Gomez! I am a sophomore from the San Francisco Bay Area 
-    (home of the Silicon Valley) pursuing a major in Mechanical Engineering with a minor in Aerospace 
-    Engineering. On campus, I am a member of Ruddock House, Club Latino, Women Mentoring Women, a 
-    Caltech Y Rise Tutor, and an Admissions Ambassador. Off campus, I intern at NASA’s Jet Propulsion 
-    Laboratory (JPL) researching and predicting ionospheric irregularities using machine-learning. 
-    During my free time, I enjoy 3D printing, watching movies with my friends, and reading 
-    personal-development books."
+    (home of the Silicon Valley) pursuing a major in Mechanical Engineering. On campus, I am a member of 
+    Ruddock House, Club Latino, Women Mentoring Women, a Caltech Y Rise Tutor, and an Admissions Ambassador. 
+    Off campus, I intern at NASA’s Jet Propulsion Laboratory (JPL) researching and predicting ionospheric 
+    irregularities using machine-learning. During my free time, I enjoy 3D printing, watching movies with
+    my friends, and reading personal-development books."
   andrew:
     name: Andrew
     display_name: I Think I Chan    
