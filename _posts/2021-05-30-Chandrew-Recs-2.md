@@ -4,9 +4,9 @@ title: "Chandrew’s Recs #2:
 In Search of Hot Chicks (Specifically, the Best Nashville Hot Chicken)"
 author: andrew
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2021/chick3.jpg
-featured: true
+featured: false
 comments: true
-hidden: true
+hidden: false
 ---
 
 About a month later it is finally time for the second part of our three (maybe 4??) part series where I take you through my favorite food in the Pasadena area. Today’s episode, Nashville hot chicken.
