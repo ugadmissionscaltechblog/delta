@@ -3,9 +3,9 @@ layout: post
 title: "Chandrew's Recs #1: Bubble Tea!"
 author: andrew
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2021/04/Labobatory.JPG
-featured: true
+featured: false
 comments: true
-hidden: true
+hidden: false
 ---
 
 # Chandrew’s Recs #1: Bubble Tea!
