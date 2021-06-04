@@ -8,8 +8,6 @@ featured: true
 comments: true
 hidden: true
 ---
-
-Senior Send-Off
 The seniors have less days than the frosh have term left. 
 
 (Although technically done with work, we don’t officially graduate for another week) It’s been a whirlwind the past few weeks trying to finish my work, shipping boxes home, and begin saying goodbye to all the wonderful people at Caltech.
