@@ -19,13 +19,11 @@ If you are in town for New Year’s, you can watch the <b>Rose Parade</b> go dow
 
 
 ![ RoseParade ](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2021/06/rose_parade.jpeg)
-
 An example Rose Parade float – every flower is placed by hand by volunteers!
 
 Arcadia, about 3 miles east of Pasadena, is home to the <b>L.A. Arboretum</b>. This was one of my absolute favorite places to go as a kid. On any given day, you can explore the gardens, visit houses and a railroad station preserved from the 1800’s, or chase after peacocks (sometimes, they even make it all the way to Caltech campus!). There are also lots of great hikes around Pasadena, many of which you could explore as part of the hiking P.E. class offered at Caltech. Most recently, I hiked the <b>Altadena Crest Trail</b> and <b>Eaton Canyon</b>, which are just minutes from campus and feature a huge waterfall and creek. 
 
 ![ Hike ](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2021/06/pasadena_hike.jpg)
-
 The view from the Altadena Crest Trail
 
 
