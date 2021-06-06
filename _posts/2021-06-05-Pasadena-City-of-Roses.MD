@@ -24,7 +24,7 @@ An example Rose Parade float – every flower is placed by hand by volunteers!
 
 Arcadia, about 3 miles east of Pasadena, is home to the <b>L.A. Arboretum</b>. This was one of my absolute favorite places to go as a kid. On any given day, you can explore the gardens, visit houses and a railroad station preserved from the 1800’s, or chase after peacocks (sometimes, they even make it all the way to Caltech campus!). There are also lots of great hikes around Pasadena, many of which you could explore as part of the hiking P.E. class offered at Caltech. Most recently, I hiked the <b>Altadena Crest Trail</b> and <b>Eaton Canyon</b>, which are just minutes from campus and feature a huge waterfall and creek. 
 
-![ Hike ](https://ug-admissi2021ons-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2021/06/pasadena_hike.jpg)
+![ Hike ](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2021/06/pasadena_hike.jpg)
 
 The view from the Altadena Crest Trail
 
@@ -38,7 +38,7 @@ The view from the Altadena Crest Trail
 Finally, though Pasadena may not be at the center of Hollywood, it is still home to lots of movie and TV sets you can visit! <b>Pasadena City Hall</b> is featured as Pawnee City Hall on the NBC show Parks and Rec and is completely open for the public to explore. You are also free to drive over the <b>Colorado Street Bridge</b>, which was used as a set in the movie La La Land! If you come to Caltech, you will surely step into Elle Woods’ pink heels yourself—  the intro scene to Legally Blonde was filmed right in front of our library. You might even see actors in the flesh in your time here! HBO’s Silicon Valley and ABC’s Modern Family were both filmed on campus within the past few years. I even got to see Ty Burrell (Phil from Modern Family) only my way to Chem lab one morning freshman year, though later that day I unfortunately got kicked out of out humanities building for trying to spy on production through the windows...
 
 ![ ModernFamily ](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2021/06/modern_family.jpg)
-The cast of Modern Family on The Caltech campus!
+The cast of Modern Family on Caltech campus!
 
 Lastly, <b>Pasadena Convention Center</b> is where the LA auditions for America’s Got Talent are taped every year. Students can get tickets online for free to watch live tapings – I got to go to a live taping my freshman year and see Simon Cowell tear apart performers in real time. With LA so close by, going to concerts and bigger events is also quite easy. One of my favorite LA memories is seeing an improv show put on by the cast of The Good Place at the Ace Hotel.
 
