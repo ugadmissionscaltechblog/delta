@@ -100,12 +100,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   shortname: https-caltechadmissions-blog
-
-# Instagram 
-instagram_user_id: 17841400885573472
-instagram_client_id: 998967617301035
-instagram_access_token: IGQVJYa1VvbV9QWGlmNWZAoOFozdGctbmhBdzhSVHpvMWk0aTlsZAGFyc1F2ZAzQ2bk5nNnZAzVW02aWpxMjg5Y01MaDJTMVF3T1ZANUnhwZAnhraW1IODVUaF9XUENfTFJJNjFQd1NSNXU5eDlXR0MzcjN3WlNyNkw1RXZAXVmcw
-    
+   
 # Archives
 jekyll-archives:
   enabled:
